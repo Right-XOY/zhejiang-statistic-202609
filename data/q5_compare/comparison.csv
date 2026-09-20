@@ -1,4 +1,4 @@
-﻿模型,Accuracy,Accuracy,MacroF1,MacroF1,Kappa,Kappa
-,mean,std,mean,std,mean,std
-Logistic,0.4306,0.0405,0.3135,0.0412,0.1723,0.0486
-XGBoost,0.3857,0.0548,0.316,0.038,0.1307,0.0751
+﻿模型,Accuracy,MacroF1,Kappa
+Logistic,0.4468,0.3743,0.2184
+XGBoost,0.4255,0.3311,0.1921
+RandomForest,0.4362,0.3602,0.1996

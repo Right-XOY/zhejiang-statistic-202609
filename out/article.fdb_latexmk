@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1789638162.56099 "out/article.xdv" "out/article.pdf" "out/article" 1789638283.45595 0
-  "out/article.xdv" 1789638161 1524620 8d8782a0c5e92fcfeacde788817528b8 "xelatex"
+["xdvipdfmx"] 1789892365.01719 "out/article.xdv" "out/article.pdf" "out/article" 1789892491.40854 0
+  "out/article.xdv" 1789892363 1556724 5047ab0b3b718e9d0f269b8ce1ae6396 "xelatex"
   (generated)
   "out/article.pdf"
   (rewritten before read)
-["xelatex"] 1789638155.21691 "article.tex" "out/article.xdv" "article" 1789638283.40048 0
+["xelatex"] 1789892356.93206 "article.tex" "out/article.xdv" "article" 1789892491.34569 0
   "annotate-equations.sty" 1786061590 7936 b135f73227e4033f464c10b739921bcc ""
-  "article.tex" 1789638138 124409 aa6dc83c3d8ceee5d8adb9807c28cd3e ""
+  "article.tex" 1789892341 127632 2b4f07b727b31b8ea12d8dbf3379aecf ""
   "c:/Windows/Fonts/msyh.ttc" 1773326043 19704352 1e10e74402e59d54499af795caf0b135 ""
   "code/model/q2_efa.py" 1789613275 3750 738c9b0fad5a57e0f3c9fb5ad74a6fd5 ""
   "code/model/q3_cluster.py" 1789613437 2014 f6d3f5aa52fbab5bad7033ec428be4e5 ""
@@ -255,10 +255,9 @@
   "figures/cluster_3d.png" 1789630146 712001 8995383c782e4d11d3c1207f65e8bda9 ""
   "figures/cluster_radar.png" 1789630146 358739 e41305d09075d9bc289d01cb671d9ae4 ""
   "figures/compare_confusion_logistic.png" 1789633313 71197 37cce8777e638c0c27d23261188a122d ""
+  "figures/compare_confusion_randomforest.png" 1789887624 72967 d6944ddcf916a4847dc83d3d67b453cd ""
   "figures/compare_confusion_xgboost.png" 1789633313 73395 5c72d945cf6ee4a657d954dff3cf23ed ""
   "figures/compare_radar.png" 1789633312 273379 d1524f15f922ab5b05f9fc2243932bdb ""
-  "figures/compare_roc.png" 1789633316 164116 3bad5bec149356b283cf73ca1df96c39 ""
-  "figures/compare_shap.png" 1789633315 83225 a8e86d217452a1cddfcd8702c8ba7c8d ""
   "figures/背景图.png" 1789564792 14029598 99076f51304b289ae5b33ea62a6676ee ""
   "figures/封面.png" 1789564772 30685958 1e68f468e0511c056b33e433c8d51adf ""
   "figures/图片1.png" 1789566761 3048162 180da5c56b3d76d8917e88acabbbf607 ""
@@ -285,11 +284,11 @@
   "figures/图片7.png" 1789566799 2204583 437c099dbde0fd248502e517967035b5 ""
   "figures/图片8.png" 1789566804 11840453 75e975c56d2a0f6258a5e679e02d742d ""
   "figures/图片9.png" 1789566811 7649140 08d136ad52ed6d2b26b3a38600515da5 ""
-  "out/article.aux" 1789638161 25908 0931213e782ee049666ee1aad9f83e9e "xelatex"
-  "out/article.lof" 1789638161 3327 9e571fafc682ba198be7fe818b7b4848 "xelatex"
-  "out/article.lot" 1789638161 2194 6d86519a2626dccc8357f589fe8f8ce2 "xelatex"
-  "out/article.out" 1789638161 14216 0c1f0b2adae1b431f42d5a282ce8c8b3 "xelatex"
-  "out/article.toc" 1789638161 9047 b2b6e003fcabb2c1acfdbcc20cf67eb2 "xelatex"
+  "out/article.aux" 1789892363 26570 0c96385057e2af4a3ddce35bbbe17595 "xelatex"
+  "out/article.lof" 1789892363 3038 d865b39b11f9960557057631af52b34b "xelatex"
+  "out/article.lot" 1789892363 2578 55831ea48a89a21a168932cbbe15d98f "xelatex"
+  "out/article.out" 1789892363 14595 4c750dc5a136a0daff2b36f31b666368 "xelatex"
+  "out/article.toc" 1789892363 9317 fdf9b19fbea5f0ee5caed4c6c974557d "xelatex"
   "structure.tex" 1787187002 8623 cb41667e45ee587ed527d34071aadc29 ""
   (generated)
   "out/article.aux"

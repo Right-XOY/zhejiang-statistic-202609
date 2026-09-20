@@ -66,19 +66,22 @@
 \contentsline {subsection}{\numberline {8.2}有序Logistic回归模型设定}{44}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}模型检验}{45}{subsection.8.3}%
 \contentsline {subsubsection}{\numberline {8.3.1}平行性检验}{46}{subsubsection.8.3.1}%
-\contentsline {subsubsection}{\numberline {8.3.2}多重共线性检验}{46}{subsubsection.8.3.2}%
-\contentsline {subsubsection}{\numberline {8.3.3}模型拟合优度检验}{47}{subsubsection.8.3.3}%
-\contentsline {subsection}{\numberline {8.4}回归结果分析}{48}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}参数估计结果}{48}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}多重共线性检验}{47}{subsubsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.3}模型拟合优度检验}{48}{subsubsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.4}回归结果分析}{49}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}参数估计结果}{49}{subsubsection.8.4.1}%
 \contentsline {subsubsection}{\numberline {8.4.2}结果解读}{50}{subsubsection.8.4.2}%
-\contentsline {section}{\numberline {九、}有序Logistic与XGBoost的模型对比}{51}{section.9}%
-\contentsline {subsection}{\numberline {9.1}XGBoost模型的构建与调参}{51}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}交叉验证对比}{51}{subsection.9.2}%
-\contentsline {section}{\numberline {十、}基于结构方程模型的噪声影响传导机制}{55}{section.10}%
-\contentsline {subsection}{\numberline {10.1}模型设定}{55}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}模型拟合与路径分析}{55}{subsection.10.2}%
-\contentsline {section}{\numberline {十一、}结论与优化建议}{56}{section.11}%
-\contentsline {subsection}{\numberline {11.1}研究总结}{56}{subsection.11.1}%
+\contentsline {subsection}{\numberline {8.5}模型稳健性检验}{51}{subsection.8.5}%
+\contentsline {section}{\numberline {九、}基于结构方程模型的噪声影响传导机制}{53}{section.9}%
+\contentsline {subsection}{\numberline {9.1}模型设定}{53}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}模型拟合与路径分析}{53}{subsection.9.2}%
+\contentsline {section}{\numberline {十、}决策概率与治理建议}{54}{section.10}%
+\contentsline {subsection}{\numberline {10.1}基线决策概率}{54}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}可干预变量的平均边际效应}{54}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}群体决策概率差异}{55}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}治理建议的量化依据}{55}{subsection.10.4}%
+\contentsline {section}{\numberline {十一、}结论与优化建议}{55}{section.11}%
+\contentsline {subsection}{\numberline {11.1}研究总结}{55}{subsection.11.1}%
 \contentsline {subsection}{\numberline {11.2}优化建议}{57}{subsection.11.2}%
 \contentsline {subsubsection}{\numberline {11.2.1}政府治理层面}{57}{subsubsection.11.2.1}%
 \contentsline {subsubsection}{\numberline {11.2.2}技术应用层面}{58}{subsubsection.11.2.2}%
@@ -86,7 +89,7 @@
 \contentsline {section}{\numberline {十二、}研究局限与展望}{58}{section.12}%
 \contentsline {subsection}{\numberline {12.1}研究局限}{58}{subsection.12.1}%
 \contentsline {subsection}{\numberline {12.2}研究展望}{59}{subsection.12.2}%
-\contentsline {section}{参考文献}{60}{section*.48}%
+\contentsline {section}{参考文献}{60}{section*.49}%
 \contentsline {section}{附录 \numberline {A}调查问卷}{61}{appendix.1.A}%
 \contentsline {section}{附录 \numberline {B}访谈记录表}{64}{appendix.1.B}%
 \contentsline {subsection}{\numberline {2.1}访谈人物1}{64}{subsection.1.B.1}%

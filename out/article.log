@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  17 SEP 2026 17:42
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  20 SEP 2026 16:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2066,23 +2066,21 @@ File: figures/背景图.png Graphic file (type bmp)
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [50]
+File: figures/compare_radar.png Graphic file (type bmp)
+<figures/compare_radar.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [51]
-File: figures/compare_radar.png Graphic file (type bmp)
-<figures/compare_radar.png>
 File: figures/compare_confusion_logistic.png Graphic file (type bmp)
 <figures/compare_confusion_logistic.png>
+File: figures/compare_confusion_randomforest.png Graphic file (type bmp)
+<figures/compare_confusion_randomforest.png>
 File: figures/compare_confusion_xgboost.png Graphic file (type bmp)
 <figures/compare_confusion_xgboost.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
 
 [52]
-File: figures/compare_shap.png Graphic file (type bmp)
-<figures/compare_shap.png>
-File: figures/compare_roc.png Graphic file (type bmp)
-<figures/compare_roc.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [53]
@@ -2152,7 +2150,7 @@ tings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 1720.
+nput line 1799.
  (./code/model/q2_efa.py
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
@@ -2201,15 +2199,15 @@ L3 programming layer <2022/08/05>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `article.out' has not changed.
-(rerunfilecheck)             Checksum: 0C1F0B2ADAE1B431F42D5A282CE8C8B3;14216.
+(rerunfilecheck)             Checksum: 4C750DC5A136A0DAFF2B36F31B666368;14595.
  ) 
 Here is how much of TeX's memory you used:
- 38385 strings out of 468168
- 857634 string characters out of 5418930
- 1848195 words of memory out of 5000000
- 66339 multiletter control sequences out of 15000+600000
+ 38376 strings out of 468168
+ 857570 string characters out of 5418930
+ 1848163 words of memory out of 5000000
+ 66331 multiletter control sequences out of 15000+600000
  649242 words of font info for 184 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,16n,125p,493b,2314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/article.xdv (81 pages, 1524620 bytes).
+Output written on out/article.xdv (81 pages, 1556724 bytes).
