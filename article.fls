@@ -453,3 +453,366 @@ INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm
 INPUT ./figures/背景图.png
 INPUT ./figures/背景图.png
 INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+OUTPUT article.toc
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./article.lof
+INPUT ./article.lof
+INPUT article.lof
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+OUTPUT article.lof
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./article.lot
+INPUT ./article.lot
+INPUT article.lot
+OUTPUT article.lot
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片1.png
+INPUT ./figures/图片1.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片2.png
+INPUT ./figures/图片2.png
+INPUT ./figures/图片3.png
+INPUT ./figures/图片3.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片4.png
+INPUT ./figures/图片4.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片5.png
+INPUT ./figures/图片5.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片6.png
+INPUT ./figures/图片6.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片7.png
+INPUT ./figures/图片7.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片8.png
+INPUT ./figures/图片8.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片9.png
+INPUT ./figures/图片9.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片10.png
+INPUT ./figures/图片10.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片11.png
+INPUT ./figures/图片11.png
+INPUT ./figures/图片12.png
+INPUT ./figures/图片12.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片13.png
+INPUT ./figures/图片13.png
+INPUT ./figures/图片14.png
+INPUT ./figures/图片14.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片15.png
+INPUT ./figures/图片15.png
+INPUT ./figures/图片16.png
+INPUT ./figures/图片16.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片17.png
+INPUT ./figures/图片17.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片18.png
+INPUT ./figures/图片18.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/cluster_radar.png
+INPUT ./figures/cluster_radar.png
+INPUT ./figures/cluster_3d.png
+INPUT ./figures/cluster_3d.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/compare_radar.png
+INPUT ./figures/compare_radar.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/compare_confusion_logistic.png
+INPUT ./figures/compare_confusion_logistic.png
+INPUT ./figures/compare_confusion_randomforest.png
+INPUT ./figures/compare_confusion_randomforest.png
+INPUT ./figures/compare_confusion_xgboost.png
+INPUT ./figures/compare_confusion_xgboost.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片21.png
+INPUT ./figures/图片21.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片22.png
+INPUT ./figures/图片22.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片23.png
+INPUT ./figures/图片23.png
+INPUT ./figures/图片24.png
+INPUT ./figures/图片24.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/图片25.png
+INPUT ./figures/图片25.png
+INPUT ./figures/图片26.png
+INPUT ./figures/图片26.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT ./code/model/q2_efa.py
+INPUT ./code/model/q2_efa.py
+INPUT code/model/q2_efa.py
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./code/model/q3_cluster.py
+INPUT ./code/model/q3_cluster.py
+INPUT code/model/q3_cluster.py
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./code/model/q4_logistic.py
+INPUT ./code/model/q4_logistic.py
+INPUT code/model/q4_logistic.py
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./code/model/q7_sem.py
+INPUT ./code/model/q7_sem.py
+INPUT code/model/q7_sem.py
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT ./figures/背景图.png
+INPUT article.aux
+INPUT ./article.out
+INPUT ./article.out
