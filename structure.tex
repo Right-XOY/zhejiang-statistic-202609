@@ -1,0 +1,211 @@
+%========================================================================================
+%	数模包
+%========================================================================================
+%! Mode:: "TeX:UTF-8"
+%! TEX program = xelatex
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{tabular}{\zihao{-5}}
+\usepackage[numbers,sort&compress]{natbib}  % 文献管理宏包
+\usepackage[framemethod=TikZ]{mdframed}  % 框架宏包
+\usepackage{url}  % 网页链接宏包
+\usepackage{subcaption}  % 子图宏包
+\usepackage{array} % 表格宏包
+\usepackage{tabularx} % 表格宏包
+\usepackage{multirow} % 表格宏包
+%\usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}%加个matlab的代码显示优化 基本不用
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}p{#1}}
+%========================================================================================
+%	自定义环境框架设置
+%========================================================================================
+
+% \usepackage[framemethod=tikz]{mdframed} % 多功能框架包，主要用于定制函数和环境
+
+%========================================================================================
+%	信息提示环境定义
+%========================================================================================
+
+% 使用方法:
+% \begin{info}[可选标题，默认为"Info:"]
+% 	内容
+% \end{info}
+
+% 定义信息框的样式
+
+% \mdfdefinestyle{info}{%
+% 	topline=false, bottomline=false,     % 不显示上下边线
+% 	leftline=false, rightline=false,     % 不显示左右边线
+% 	nobreak,                             % 不允许跨页断开
+% 	singleextra={%                       % 自定义图形元素
+% 		\fill[black](P-|O)circle[radius=0.4em];          % 绘制黑色圆圈
+% 		\node at(P-|O){\color{white}\scriptsize\normalfont\bfseries i}; % 在圆圈中放置白色"i"
+% 		\draw[very thick](P-|O)++(0,-0.8em)--(O);        % 绘制粗线
+% 	}
+% }
+
+\mdfdefinestyle{info}{
+	topline=false, bottomline=false,     % 不显示上下边线
+	leftline=false, rightline=false,     % 不显示左右边线
+	nobreak,                             % 不允许跨页断开
+	singleextra={%                       % 自定义图形元素
+		\draw(P-|O)++(-0.5em,0)node(tmp1){}; % 定义左侧点
+		\draw(P-|O)++(0.5em,0)node(tmp2){};  % 定义右侧点
+		\fill[black,rotate around={45:(P-|O)}](tmp1)rectangle(tmp2); % 绘制45度旋转的黑色矩形
+		\node at(P-|O){\color{white}\scriptsize\normalfont\bfseries i}; % 在圆圈中放置白色"i"
+		\draw[very thick](P-|O)++(0,-1em)--(O); % 绘制粗线
+	}
+}
+
+% 定义信息环境
+\newenvironment{info}[1][Info:]{ % 设置默认标题为"Info:"
+	\medskip                     % 中等垂直间距
+	\begin{mdframed}[style=info] % 开始mdframed环境，使用info样式
+		\noindent{\textbf{#1}}   % 显示粗体标题，不缩进
+}{
+	\end{mdframed}               % 结束mdframed环境
+}
+
+%========================================================================================
+%	警告提示环境定义
+%========================================================================================
+
+% 使用方法:
+% \begin{warn}[可选标题，默认为"Warning:"]
+%	内容
+% \end{warn}
+
+% 定义警告框的样式
+\mdfdefinestyle{warning}{
+	topline=false, bottomline=false,     % 不显示上下边线
+	leftline=false, rightline=false,     % 不显示左右边线
+	nobreak,                             % 不允许跨页断开
+	singleextra={%                       % 自定义图形元素
+		\draw(P-|O)++(-0.5em,0)node(tmp1){}; % 定义左侧点
+		\draw(P-|O)++(0.5em,0)node(tmp2){};  % 定义右侧点
+		\fill[black,rotate around={45:(P-|O)}](tmp1)rectangle(tmp2); % 绘制45度旋转的黑色矩形
+		\node at(P-|O){\color{white}\scriptsize\normalfont\bfseries !}; % 在图形中放置白色感叹号
+		\draw[very thick](P-|O)++(0,-1em)--(O); % 绘制粗线
+	}
+}
+
+% 定义警告文本环境
+\newenvironment{warn}[1][Warning:]{ % 设置默认警告标题为"Warning:"
+	\medskip                        % 中等垂直间距
+	\begin{mdframed}[style=warning] % 开始mdframed环境，使用warning样式
+		\noindent{\textbf{#1}}      % 显示粗体标题，不缩进
+}{
+	\end{mdframed}                  % 结束mdframed环境
+}
+
+%========================================================================================
+%	猜测假设环境定义
+%========================================================================================
+
+% 使用方法:
+% \begin{guess}[可选标题，默认为"Guess:"]
+%	内容
+% \end{guess}
+
+% 定义猜测框的样式
+\mdfdefinestyle{guess}{
+	topline=false, bottomline=false,     % 不显示上下边线
+	leftline=false, rightline=false,     % 不显示左右边线
+	nobreak,                             % 不允许跨页断开
+	singleextra={%                       % 自定义图形元素
+		\draw(P-|O)++(-0.5em,0)node(tmp1){}; % 定义左侧点
+		\draw(P-|O)++(0.5em,0)node(tmp2){};  % 定义右侧点
+		\fill[black,rotate around={45:(P-|O)}](tmp1)rectangle(tmp2); % 绘制45度旋转的黑色矩形
+		\node at(P-|O){\color{white}\scriptsize\normalfont\bfseries ?}; % 在图形中放置白色问号
+		\draw[very thick](P-|O)++(0,-1em)--(O); % 绘制粗线
+	}
+}
+
+% 定义猜测文本环境
+\newenvironment{guess}[1][Guess:]{ % 设置默认标题为"Guess:"
+	\medskip                       % 中等垂直间距
+	\begin{mdframed}[style=guess]  % 开始mdframed环境，使用guess样式
+		\noindent{\textbf{#1}}     % 显示粗体标题，不缩进
+}{
+	\end{mdframed}                 % 结束mdframed环境
+}
+
+%========================================================================================
+%	问题编号环境定义
+%========================================================================================
+
+% 使用方法:
+% \begin{question}[可选标题]
+%	问题内容
+% \end{question}
+
+% 定义问题框的样式
+\mdfdefinestyle{question}{
+	innertopmargin=1.2\baselineskip,    % 内部上边距
+	innerbottommargin=0.8\baselineskip, % 内部下边距
+	roundcorner=5pt,                    % 圆角半径
+	nobreak,                            % 不允许跨页断开
+	singleextra={%                      % 自定义图形元素
+		\draw(P-|O)node[xshift=1em,anchor=west,fill=white,draw,rounded corners=5pt]{% 绘制问题标签
+		\large\textbf{Question \theQuestion\questionTitle}}; % 显示"Question"加编号和标题
+	},
+}
+
+\newcounter{Question} % 创建问题计数器，存储当前问题编号
+
+% 定义编号问题的自定义环境
+\newenvironment{question}[1][\unskip]{
+	\bigskip                          % 大垂直间距
+	\stepcounter{Question}            % 问题计数器加1
+	\newcommand{\questionTitle}{~#1}  % 定义问题标题命令
+	\begin{mdframed}[style=question]  % 开始mdframed环境，使用question样式
+}{
+	\end{mdframed}                    % 结束mdframed环境
+	\medskip                          % 中等垂直间距
+}
+
+%========================================================================================
+%	公式注释
+%========================================================================================
+
+\usepackage{annotate-equations}
+
+\renewcommand{\eqnhighlightheight}{\vphantom{\hat{H}}\mathstrut}  % 颜色背景大小
+
+\renewcommand{\eqnannotationfont}{\bfseries\small} % 批注字体设置
+
+\usepackage[dvipsnames]{xcolor}
+%========================================================================================
+%	图片和解释文字并行
+%========================================================================================
+% 定义图文并排的自定义环境
+% 参数1: 图片路径
+% 参数2: 图片的图注(caption)
+\newenvironment{pictextblock}[2]{%
+  % —— 开始代码（与您现有内容一致） ——
+  \par\bigskip%\noindent
+  \begin{minipage}[c]{0.5\textwidth}
+    \centering
+    \includegraphics[width=\linewidth,keepaspectratio]{#1}
+    \captionsetup{hypcap=false}%                                     
+    \captionof{figure}{#2}
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}[c]{0.45\textwidth}
+    \raggedright\small
+    % 上双横线
+    \noindent\rule{\linewidth}{0.8pt}%
+    \par\nobreak\nointerlineskip\vskip 1.5pt
+    \noindent\rule{\linewidth}{0.4pt}%
+    \par\medskip
+}{% <—— 这里开始“结束代码” ——>
+    \par\medskip
+    % 下双横线
+    \noindent\rule{\linewidth}{0.4pt}%
+    \par\nobreak\nointerlineskip\vskip 1.5pt
+    \noindent\rule{\linewidth}{0.8pt}%
+  \end{minipage}
+  \par\bigskip
+}
+

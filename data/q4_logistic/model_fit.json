@@ -1,0 +1,10 @@
+{
+  "null_2LL": 1349.544,
+  "model_2LL": 1227.952,
+  "lr_chi2": 121.592,
+  "lr_df": 18,
+  "lr_p": "<0.001",
+  "mcfadden": 0.09,
+  "cox_snell": 0.229,
+  "nagelkerke": 0.243
+}
