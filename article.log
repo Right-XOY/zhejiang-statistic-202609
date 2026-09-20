@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  20 SEP 2026 16:23
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  20 SEP 2026 16:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1308,19 +1308,13 @@ File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [3
 
-]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [4]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [5])
+])
 \tf@toc=\write6
 \openout6 = `article.toc'.
 
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [6] (./article.lof
+ [4] (./article.lof
 LaTeX Font Info:    Calculating math sizes for size <12.05> on input line 1.
 )
 \tf@lof=\write7
@@ -1328,7 +1322,7 @@ LaTeX Font Info:    Calculating math sizes for size <12.05> on input line 1.
 
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [7
+ [5
 
 ] (./article.lot)
 \tf@lot=\write8
@@ -1336,7 +1330,7 @@ File: figures/背景图.png Graphic file (type bmp)
 
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [8
+ [6
 
 ]
 File: figures/图片1.png Graphic file (type bmp)
@@ -1344,11 +1338,11 @@ File: figures/图片1.png Graphic file (type bmp)
 
 
 LaTeX Font Warning: Font shape `TU/SimSun(1)/b/n' undefined
-(Font)              using `TU/SimSun(1)/m/n' instead on input line 140.
+(Font)              using `TU/SimSun(1)/m/n' instead on input line 141.
 
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
-[9
+[7
 
 ]
 File: figures/图片2.png Graphic file (type bmp)
@@ -1357,35 +1351,41 @@ File: figures/图片3.png Graphic file (type bmp)
 <figures/图片3.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [10]
+ [8]
 File: figures/图片4.png Graphic file (type bmp)
 <figures/图片4.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [11]
+ [9]
 File: figures/图片5.png Graphic file (type bmp)
 <figures/图片5.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [12]
+ [10]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [13]
+ [11]
 File: figures/图片6.png Graphic file (type bmp)
 <figures/图片6.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [14]
+ [12]
 File: figures/图片7.png Graphic file (type bmp)
 <figures/图片7.png>
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
+ [13]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
+ [14]
+File: figures/图片8.png Graphic file (type bmp)
+<figures/图片8.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [15]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [16]
-File: figures/图片8.png Graphic file (type bmp)
-<figures/图片8.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [17]
@@ -1401,74 +1401,68 @@ File: figures/背景图.png Graphic file (type bmp)
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [21]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [22]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [23]
 File: figures/图片9.png Graphic file (type bmp)
 <figures/图片9.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [24]
-Overfull \hbox (13.0172pt too wide) in paragraph at lines 490--490
+ [22]
+Overfull \hbox (13.0172pt too wide) in paragraph at lines 491--491
  []|[]| 
  []
 
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
-[25]
+[23]
 Overfull \vbox (4.95593pt too high) has occurred while \output is active []
 
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
+ [24]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
+ [25]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
  [26]
+File: figures/图片10.png Graphic file (type bmp)
+<figures/图片10.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [27]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [28]
-File: figures/图片10.png Graphic file (type bmp)
-<figures/图片10.png>
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [29]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [30]
 File: figures/图片11.png Graphic file (type bmp)
 <figures/图片11.png>
 File: figures/图片12.png Graphic file (type bmp)
 <figures/图片12.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [31]
+ [29]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [32]
+ [30]
 File: figures/图片13.png Graphic file (type bmp)
 <figures/图片13.png>
 File: figures/图片14.png Graphic file (type bmp)
 <figures/图片14.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [33]
+ [31]
 File: figures/图片15.png Graphic file (type bmp)
 <figures/图片15.png>
 File: figures/图片16.png Graphic file (type bmp)
 <figures/图片16.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
+ [32]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
+ [33]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
  [34]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [35]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [36]
-Overfull \hbox (2.69916pt too wide) in paragraph at lines 766--767
+Overfull \hbox (2.69916pt too wide) in paragraph at lines 767--768
 []\TU/SimSun(0)/m/n/12.05 由 表[][]\TU/TimesNewRoman(0)/m/n/12.05 10[][]\TU/SimSun(0)/m/n/12.05 可 知，|  经 过 凯 撒 正 态 化 最 大 方 差 法 旋 转 后 各 因 子 的 方 差 贡 献 率 分 别 为 \TU/TimesNewRoman(0)/m/n/12.05 19.47%\TU/SimSun(0)/m/n/12.05 、|
  []
 
@@ -1476,22 +1470,28 @@ File: figures/图片17.png Graphic file (type bmp)
 <figures/图片17.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
-[37]
+[35]
 File: figures/图片18.png Graphic file (type bmp)
 <figures/图片18.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
+ [36]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
+ [37]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
  [38]
+File: figures/cluster_radar.png Graphic file (type bmp)
+<figures/cluster_radar.png>
+File: figures/cluster_3d.png Graphic file (type bmp)
+<figures/cluster_3d.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [39]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [40]
-File: figures/cluster_radar.png Graphic file (type bmp)
-<figures/cluster_radar.png>
-File: figures/cluster_3d.png Graphic file (type bmp)
-<figures/cluster_3d.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [41]
@@ -1516,17 +1516,11 @@ File: figures/背景图.png Graphic file (type bmp)
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [48]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [49]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [50]
 File: figures/compare_radar.png Graphic file (type bmp)
 <figures/compare_radar.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [51]
+ [49]
 File: figures/compare_confusion_logistic.png Graphic file (type bmp)
 <figures/compare_confusion_logistic.png>
 File: figures/compare_confusion_randomforest.png Graphic file (type bmp)
@@ -1535,18 +1529,24 @@ File: figures/compare_confusion_xgboost.png Graphic file (type bmp)
 <figures/compare_confusion_xgboost.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
+ [50]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
+ [51]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
  [52]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [53]
+File: figures/图片21.png Graphic file (type bmp)
+<figures/图片21.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [54]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [55]
-File: figures/图片21.png Graphic file (type bmp)
-<figures/图片21.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [56]
@@ -1574,71 +1574,65 @@ File: figures/背景图.png Graphic file (type bmp)
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [64]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [65]
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [66]
 File: figures/图片22.png Graphic file (type bmp)
 <figures/图片22.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [67]
+ [65]
 File: figures/图片23.png Graphic file (type bmp)
 <figures/图片23.png>
 File: figures/图片24.png Graphic file (type bmp)
 <figures/图片24.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [68]
+ [66]
 File: figures/图片25.png Graphic file (type bmp)
 <figures/图片25.png>
 File: figures/图片26.png Graphic file (type bmp)
 <figures/图片26.png>
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [69] (d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
+ [67] (d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1799.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1800.
  (./code/model/q2_efa.py
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
+ [68]
+File: figures/背景图.png Graphic file (type bmp)
+<figures/背景图.png>
+ [69]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [70]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [71]
+ [71]) (./code/model/q3_cluster.py
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [72]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [73]) (./code/model/q3_cluster.py
+ [73]) (./code/model/q4_logistic.py
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [74]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [75]) (./code/model/q4_logistic.py
+ [75]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
  [76]
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [77]
+ [77]) (./code/model/q7_sem.py
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [78]
+ [78])
 File: figures/背景图.png Graphic file (type bmp)
 <figures/背景图.png>
- [79]) (./code/model/q7_sem.py
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [80])
-File: figures/背景图.png Graphic file (type bmp)
-<figures/背景图.png>
- [81] (./article.aux)
+ [79] (./article.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -1648,15 +1642,15 @@ L3 programming layer <2022/08/05>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `article.out' has not changed.
-(rerunfilecheck)             Checksum: 4C750DC5A136A0DAFF2B36F31B666368;14595.
+(rerunfilecheck)             Checksum: FAEEC7B5BA8DC41668C815A09AC3DB9C;8407.
  ) 
 Here is how much of TeX's memory you used:
- 38376 strings out of 468168
- 857586 string characters out of 5418930
- 1848164 words of memory out of 5000000
- 66331 multiletter control sequences out of 15000+600000
+ 38348 strings out of 468168
+ 856553 string characters out of 5418930
+ 1847897 words of memory out of 5000000
+ 66303 multiletter control sequences out of 15000+600000
  649242 words of font info for 184 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,16n,125p,517b,2314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on article.pdf (81 pages).
+Output written on article.pdf (79 pages).

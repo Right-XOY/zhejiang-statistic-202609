@@ -453,12 +453,6 @@ INPUT d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/fonts/tfm
 INPUT ./figures/背景图.png
 INPUT ./figures/背景图.png
 INPUT ./figures/背景图.png
-INPUT ./figures/背景图.png
-INPUT ./figures/背景图.png
-INPUT ./figures/背景图.png
-INPUT ./figures/背景图.png
-INPUT ./figures/背景图.png
-INPUT ./figures/背景图.png
 OUTPUT article.toc
 INPUT ./figures/背景图.png
 INPUT ./figures/背景图.png
