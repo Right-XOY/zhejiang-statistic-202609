@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  21 SEP 2026 15:50
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  21 SEP 2026 16:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1352,8 +1352,10 @@ File: figures/图片3.png Graphic file (type bmp)
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [8]
-File: figures/图片4.png Graphic file (type bmp)
-<figures/图片4.png>
+File: figures/env_noise_period.png Graphic file (type bmp)
+<figures/env_noise_period.png>
+File: figures/env_noise_year.png Graphic file (type bmp)
+<figures/env_noise_year.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [9]
@@ -1367,11 +1369,11 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [11]
 File: figures/图片6.png Graphic file (type bmp)
 <figures/图片6.png>
+File: figures/图片7.png Graphic file (type bmp)
+<figures/图片7.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [12]
-File: figures/图片7.png Graphic file (type bmp)
-<figures/图片7.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [13]
@@ -1398,59 +1400,69 @@ File: figures/背景图.jpg Graphic file (type bmp)
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [20]
-File: figures/背景图.jpg Graphic file (type bmp)
-<figures/背景图.jpg>
- [21]
 File: figures/图片9.png Graphic file (type bmp)
 <figures/图片9.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [22]
-Overfull \hbox (13.0172pt too wide) in paragraph at lines 491--491
+ [21]
+Overfull \hbox (13.0172pt too wide) in paragraph at lines 507--507
  []|[]| 
  []
 
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
-[23]
+[22]
 Overfull \vbox (4.95593pt too high) has occurred while \output is active []
 
+File: figures/背景图.jpg Graphic file (type bmp)
+<figures/背景图.jpg>
+ [23]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [24]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [25]
+File: figures/板块1_性别构成.png Graphic file (type bmp)
+<figures/板块1_性别构成.png>
+File: figures/板块2_城市分布.png Graphic file (type bmp)
+<figures/板块2_城市分布.png>
+File: figures/板块3_年龄构成.png Graphic file (type bmp)
+<figures/板块3_年龄构成.png>
+File: figures/板块4_文化程度.png Graphic file (type bmp)
+<figures/板块4_文化程度.png>
+File: figures/板块5_居住区域.png Graphic file (type bmp)
+<figures/板块5_居住区域.png>
+File: figures/板块6_职业构成.png Graphic file (type bmp)
+<figures/板块6_职业构成.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [26]
-File: figures/图片10.png Graphic file (type bmp)
-<figures/图片10.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [27]
+File: figures/图片11.png Graphic file (type bmp)
+<figures/图片11.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [28]
-File: figures/图片11.png Graphic file (type bmp)
-<figures/图片11.png>
 File: figures/图片12.png Graphic file (type bmp)
 <figures/图片12.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [29]
+File: figures/图片13.png Graphic file (type bmp)
+<figures/图片13.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [30]
-File: figures/图片13.png Graphic file (type bmp)
-<figures/图片13.png>
 File: figures/图片14.png Graphic file (type bmp)
 <figures/图片14.png>
+File: figures/图片15.png Graphic file (type bmp)
+<figures/图片15.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [31]
-File: figures/图片15.png Graphic file (type bmp)
-<figures/图片15.png>
 File: figures/图片16.png Graphic file (type bmp)
 <figures/图片16.png>
 File: figures/背景图.jpg Graphic file (type bmp)
@@ -1459,31 +1471,31 @@ File: figures/背景图.jpg Graphic file (type bmp)
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [33]
-File: figures/背景图.jpg Graphic file (type bmp)
-<figures/背景图.jpg>
- [34]
-Overfull \hbox (2.69916pt too wide) in paragraph at lines 767--768
+Overfull \hbox (2.69916pt too wide) in paragraph at lines 825--826
 []\TU/SimSun(0)/m/n/12.05 由 表[][]\TU/TimesNewRoman(0)/m/n/12.05 10[][]\TU/SimSun(0)/m/n/12.05 可 知，|  经 过 凯 撒 正 态 化 最 大 方 差 法 旋 转 后 各 因 子 的 方 差 贡 献 率 分 别 为 \TU/TimesNewRoman(0)/m/n/12.05 19.53%\TU/SimSun(0)/m/n/12.05 、|
  []
 
-File: figures/图片17.png Graphic file (type bmp)
-<figures/图片17.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
-[35]
+[34]
+File: figures/图片17.png Graphic file (type bmp)
+<figures/图片17.png>
 File: figures/图片18.png Graphic file (type bmp)
 <figures/图片18.png>
+File: figures/背景图.jpg Graphic file (type bmp)
+<figures/背景图.jpg>
+ [35]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [36]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [37]
+File: figures/cluster_radar.png Graphic file (type bmp)
+<figures/cluster_radar.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [38]
-File: figures/cluster_radar.png Graphic file (type bmp)
-<figures/cluster_radar.png>
 File: figures/cluster_3d.png Graphic file (type bmp)
 <figures/cluster_3d.png>
 File: figures/背景图.jpg Graphic file (type bmp)
@@ -1595,7 +1607,7 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [67] (d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1800.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1858.
  (./code/model/q2_efa.py
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
@@ -1645,10 +1657,10 @@ Package rerunfilecheck Info: File `article.out' has not changed.
 (rerunfilecheck)             Checksum: FAEEC7B5BA8DC41668C815A09AC3DB9C;8407.
  ) 
 Here is how much of TeX's memory you used:
- 38349 strings out of 468168
- 856557 string characters out of 5418930
- 1896397 words of memory out of 5000000
- 66303 multiletter control sequences out of 15000+600000
+ 38408 strings out of 468168
+ 857795 string characters out of 5418930
+ 1896579 words of memory out of 5000000
+ 66356 multiletter control sequences out of 15000+600000
  649242 words of font info for 184 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,16n,125p,517b,2280s stack positions out of 10000i,1000n,20000p,200000b,200000s

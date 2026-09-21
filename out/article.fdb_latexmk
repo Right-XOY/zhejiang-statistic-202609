@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1789977060.59457 "out/article.xdv" "out/article.pdf" "out/article" 1789977072.83995 0
-  "out/article.xdv" 1789977058 1432352 e5919ee10ca484af28b26ce8ae93a750 "xelatex"
+["xdvipdfmx"] 1789978833.55058 "out/article.xdv" "out/article.pdf" "out/article" 1789978845.94579 0
+  "out/article.xdv" 1789978831 1444820 6a62f2080518866ca83651d1b7d4e346 "xelatex"
   (generated)
   "out/article.pdf"
   (rewritten before read)
-["xelatex"] 1789977051.60668 "article.tex" "out/article.xdv" "article" 1789977072.78393 0
+["xelatex"] 1789978825.59542 "article.tex" "out/article.xdv" "article" 1789978845.86569 0
   "annotate-equations.sty" 1786061590 7936 b135f73227e4033f464c10b739921bcc ""
-  "article.tex" 1789977030 127692 48c7293eb50373e97bd941ea8e672fc1 ""
+  "article.tex" 1789978811 130567 d69e3d3a3138ea19fe783f5babb8f7bc ""
   "c:/Windows/Fonts/msyh.ttc" 1773326043 19704352 1e10e74402e59d54499af795caf0b135 ""
   "code/model/q2_efa.py" 1789613275 3750 738c9b0fad5a57e0f3c9fb5ad74a6fd5 ""
   "code/model/q3_cluster.py" 1789613437 2014 f6d3f5aa52fbab5bad7033ec428be4e5 ""
@@ -258,10 +258,17 @@
   "figures/compare_confusion_randomforest.png" 1789887624 72967 d6944ddcf916a4847dc83d3d67b453cd ""
   "figures/compare_confusion_xgboost.png" 1789887624 73559 6a7ca501ffdd5c438a2b66d4d8bd0811 ""
   "figures/compare_radar.png" 1789887622 285161 098bded167afcb06ae98fd2ff73d29c0 ""
+  "figures/env_noise_period.png" 1789976472 60638 49b5e7e14792aa453fb9c5f7970f459a ""
+  "figures/env_noise_year.png" 1789976472 126158 66173b36a3a6d20ea8961345190a7a41 ""
+  "figures/板块1_性别构成.png" 1789975382 106521 f7e9c490ffa20604ad5868d5785d3f63 ""
+  "figures/板块2_城市分布.png" 1789975382 105322 f91e457847574e8f8f5eedbcab939ec1 ""
+  "figures/板块3_年龄构成.png" 1789975382 199060 522f0ad0393efa2bda4bef417f5bd6d4 ""
+  "figures/板块4_文化程度.png" 1789975382 118194 08510a9b2650bc91e0cc24e956b4ecd1 ""
+  "figures/板块5_居住区域.png" 1789975382 112132 9429520e8c308e76624d450560b64b44 ""
+  "figures/板块6_职业构成.png" 1789975382 182443 64bfe0923975e6103a283bf76938547f ""
   "figures/背景图.jpg" 1789973964 23236 43943c60a72e626b74c660c0e948c51b ""
   "figures/封面.jpg" 1789973964 59691 aad17586571fc1dbb1f2c434fb7b62dd ""
   "figures/图片1.png" 1789566761 3048162 180da5c56b3d76d8917e88acabbbf607 ""
-  "figures/图片10.png" 1789566819 15699992 0d7749cdbf6f23301d1d23943fc14a22 ""
   "figures/图片11.png" 1789566823 1406309 251ecf26e2d722033ed2e739924ec84f ""
   "figures/图片12.png" 1789566828 8338114 270e367981b207b817e5f955e36f1aff ""
   "figures/图片13.png" 1789566831 6374052 e85b66066d1498a2889c7cb6daba9a04 ""
@@ -278,17 +285,16 @@
   "figures/图片25.jpg" 1789973963 65035 9c9d6d6713d8966af8ac90588f2c21d0 ""
   "figures/图片26.jpg" 1789973963 71720 742e9f5f397fd567b4a7570e0c446b4d ""
   "figures/图片3.png" 1789566777 3438455 ce150126f589ad7eef320cbf412e73d6 ""
-  "figures/图片4.png" 1789566785 1430677 9423f4567e8be3d27c3bffa6e64bc177 ""
   "figures/图片5.png" 1789566790 489008 9c5f08659bbdf60a716bd1911223f88e ""
   "figures/图片6.png" 1789566795 2815263 fcfd1e8baeb4baf3bcb8b534dbd12f3c ""
   "figures/图片7.png" 1789566799 2204583 437c099dbde0fd248502e517967035b5 ""
   "figures/图片8.png" 1789566804 11840453 75e975c56d2a0f6258a5e679e02d742d ""
   "figures/图片9.png" 1789566811 7649140 08d136ad52ed6d2b26b3a38600515da5 ""
-  "out/article.aux" 1789977058 26564 59df6e0257b50ba52f22baa476175abd "xelatex"
-  "out/article.lof" 1789977058 3036 847c35c046d9075bc4922993d3a7cdd1 "xelatex"
-  "out/article.lot" 1789977058 2578 c9894d8cae83ecd524d66ca20b36151e "xelatex"
-  "out/article.out" 1789977058 8407 faeec7b5ba8dc41668c815a09ac3db9c "xelatex"
-  "out/article.toc" 1789977058 9317 158d62aa8da3e344f20e91b921389b33 "xelatex"
+  "out/article.aux" 1789978831 26776 a6824deb4b04f766b3c217f692587706 "xelatex"
+  "out/article.lof" 1789978831 3071 67393d5c26dee0d2a29bf25c01319f53 "xelatex"
+  "out/article.lot" 1789978831 2578 f04a1b407fd6c080491bf65eafc4f1e8 "xelatex"
+  "out/article.out" 1789978831 8407 faeec7b5ba8dc41668c815a09ac3db9c "xelatex"
+  "out/article.toc" 1789978831 9317 ff1606e03ccbc0abb4e14cd9818b9fef "xelatex"
   "structure.tex" 1787187002 8623 cb41667e45ee587ed527d34071aadc29 ""
   (generated)
   "out/article.aux"
