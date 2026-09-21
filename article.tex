@@ -65,14 +65,14 @@
 %========================================================================================
 % 所有页显示背景图
 \AddToShipoutPictureBG{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{figures/背景图.png}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{figures/背景图.jpg}%
 }
 
 % 第1页封面图（TikZ 覆盖在背景之上，仅本页）
 \thispagestyle{empty}
 \begin{tikzpicture}[remember picture, overlay]
   \node[inner sep=0pt] at (current page.center) {%
-    \includegraphics[width=\paperwidth,height=\paperheight]{figures/封面.png}%
+    \includegraphics[width=\paperwidth,height=\paperheight]{figures/封面.jpg}%
   };
 \end{tikzpicture}
 \null
@@ -1756,15 +1756,15 @@ $\square$其他 \underline{\hspace{3cm}}
 
 （注：以下五张图片应放在同一页内）
 
-\fig[0.6]{图片22.png}{小组调研前期准备}
+\fig[0.6]{图片22.jpg}{小组调研前期准备}
 
-\fig[0.45]{图片23.png}{宁波市鄞州区某老旧小区}
+\fig[0.45]{图片23.jpg}{宁波市鄞州区某老旧小区}
 
-\fig[0.45]{图片24.png}{老旧小区独居老人}
+\fig[0.45]{图片24.jpg}{老旧小区独居老人}
 
-\fig[0.6]{图片25.png}{温州市某工厂职工}
+\fig[0.6]{图片25.jpg}{温州市某工厂职工}
 
-\fig[0.6]{图片26.png}{宁波市某校边店老板}
+\fig[0.6]{图片26.jpg}{宁波市某校边店老板}
 
 \section{核心代码}
 
