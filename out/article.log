@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  20 SEP 2026 16:31
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  21 SEP 2026 14:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2006,7 +2006,7 @@ File: figures/背景图.png Graphic file (type bmp)
 Overfull \hbox (2.69916pt too wide) in paragraph at lines 767--768
 []\TU/SimSun(0)/m/n/12.05 由 表[][]\TU/TimesNewRoman(0)/m/n/12.05 10[][]\TU/SimSu
 n(0)/m/n/12.05 可 知，|  经 过 凯 撒 正 态 化 最 大 方 差 法 旋 转 后 各 因 子 的 方 差 贡 献 率 分 别 为 \TU
-/TimesNewRoman(0)/m/n/12.05 19.47%\TU/SimSun(0)/m/n/12.05 、|
+/TimesNewRoman(0)/m/n/12.05 19.53%\TU/SimSun(0)/m/n/12.05 、|
  []
 
 File: figures/图片17.png Graphic file (type bmp)
@@ -2203,4 +2203,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  113i,16n,125p,493b,2314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/article.xdv (79 pages, 1431352 bytes).
+Output written on out/article.xdv (79 pages, 1431520 bytes).

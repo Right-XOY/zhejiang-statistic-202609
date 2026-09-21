@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1789893067.75524 "out/article.xdv" "out/article.pdf" "out/article" 1789893188.76201 0
-  "out/article.xdv" 1789893066 1431352 69e8a09bf31c306908e2b7b1870fbb80 "xelatex"
+["xdvipdfmx"] 1789971834.63816 "out/article.xdv" "out/article.pdf" "out/article" 1789971951.97923 0
+  "out/article.xdv" 1789971833 1431520 a076bf98de9a30b9323e5b548adbf7b0 "xelatex"
   (generated)
   "out/article.pdf"
   (rewritten before read)
-["xelatex"] 1789893060.84691 "article.tex" "out/article.xdv" "article" 1789893188.69527 0
+["xelatex"] 1789971828.23779 "article.tex" "out/article.xdv" "article" 1789971951.92455 0
   "annotate-equations.sty" 1786061590 7936 b135f73227e4033f464c10b739921bcc ""
-  "article.tex" 1789893045 127657 a42260bd6f58a0e22bccfa265d68a2d9 ""
+  "article.tex" 1789971819 127692 d70c27ebedde4b381db8461699ab75fd ""
   "c:/Windows/Fonts/msyh.ttc" 1773326043 19704352 1e10e74402e59d54499af795caf0b135 ""
   "code/model/q2_efa.py" 1789613275 3750 738c9b0fad5a57e0f3c9fb5ad74a6fd5 ""
   "code/model/q3_cluster.py" 1789613437 2014 f6d3f5aa52fbab5bad7033ec428be4e5 ""
@@ -284,11 +284,11 @@
   "figures/图片7.png" 1789566799 2204583 437c099dbde0fd248502e517967035b5 ""
   "figures/图片8.png" 1789566804 11840453 75e975c56d2a0f6258a5e679e02d742d ""
   "figures/图片9.png" 1789566811 7649140 08d136ad52ed6d2b26b3a38600515da5 ""
-  "out/article.aux" 1789893066 26564 162555517cf1e84de3d148af8dc1e87d "xelatex"
-  "out/article.lof" 1789893066 3036 92f8f8cfdb99c4ed9201da74c2f80ef7 "xelatex"
-  "out/article.lot" 1789893066 2578 c9894d8cae83ecd524d66ca20b36151e "xelatex"
-  "out/article.out" 1789893066 8407 faeec7b5ba8dc41668c815a09ac3db9c "xelatex"
-  "out/article.toc" 1789893066 9317 f36e254bc34b0334b8cbfd58b5c792ec "xelatex"
+  "out/article.aux" 1789971833 26564 162555517cf1e84de3d148af8dc1e87d "xelatex"
+  "out/article.lof" 1789971833 3036 92f8f8cfdb99c4ed9201da74c2f80ef7 "xelatex"
+  "out/article.lot" 1789971833 2578 c9894d8cae83ecd524d66ca20b36151e "xelatex"
+  "out/article.out" 1789971833 8407 faeec7b5ba8dc41668c815a09ac3db9c "xelatex"
+  "out/article.toc" 1789971833 9317 f36e254bc34b0334b8cbfd58b5c792ec "xelatex"
   "structure.tex" 1787187002 8623 cb41667e45ee587ed527d34071aadc29 ""
   (generated)
   "out/article.aux"
