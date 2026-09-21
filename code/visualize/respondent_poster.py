@@ -3,19 +3,19 @@
 浙江省杭甬温环境噪声污染调查 · 受访者画像信息图（6 张单图系列）
 ================================================================================
 风格：复刻「国家统计局公报」信息长图的卡片式设计（蓝色标题栏 + 白底卡片）。
-输出：按板块序号拆成 6 张独立矢量图（SVG），尺寸按各自内容自适应。
+输出：按板块序号拆成 6 张独立高清位图（PNG），尺寸按各自内容自适应。
 
 运行：
     python code/visualize/respondent_poster.py
 
 输出（统一输出到项目根目录的 figures/）：
-    figures/板块1_性别构成.svg
-    figures/板块2_城市分布.svg
-    figures/板块3_年龄构成.svg
-    figures/板块4_文化程度.svg
-    figures/板块5_居住区域.svg
-    figures/板块6_职业构成.svg
-    SVG 为无损矢量图，文字已转曲，可直接插入论文或导入 AI / Inkscape 二次编辑。
+    figures/板块1_性别构成.png
+    figures/板块2_城市分布.png
+    figures/板块3_年龄构成.png
+    figures/板块4_文化程度.png
+    figures/板块5_居住区域.png
+    figures/板块6_职业构成.png
+    PNG 为 300 dpi 位图（论文插图）。
 
 改造指南：
     第 1 节 = 数据（改数字）      第 2 节 = 文字（改文案）
@@ -39,6 +39,7 @@ from matplotlib.patches import Circle, FancyBboxPatch, Polygon, Rectangle, Wedge
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 FIG_DIR = os.path.join(ROOT, "figures")  # 统一输出到项目根目录的 figures/
+DPI = 300  # 位图输出分辨率
 
 PIC1 = "板块1_性别构成"
 PIC2 = "板块2_城市分布"
@@ -1036,7 +1037,7 @@ PANELS = [
 
 
 def render_panel(key, filename, drawer):
-    """渲染单个板块为一张独立矢量图（SVG），写入 figures/。"""
+    """渲染单个板块为一张独立位图（PNG, 300 dpi），写入 figures/。"""
     card_h = PANEL_CARD_H[key]
     card_w = FIG_W - 2 * PAD_X
     fig_h = PAD_BOTTOM + card_h + PAD_TOP
@@ -1057,18 +1058,18 @@ def render_panel(key, filename, drawer):
     content = draw_card(fig, canvas, ax, TITLES[key])
     drawer(fig, ax, content)
 
-    svg = os.path.join(FIG_DIR, filename + ".svg")
-    fig.savefig(svg, facecolor=C["page_bg"])
+    png = os.path.join(FIG_DIR, filename + ".png")
+    fig.savefig(png, dpi=DPI, facecolor=C["page_bg"])
     plt.close(fig)
-    return svg
+    return png
 
 
 def main():
     os.makedirs(FIG_DIR, exist_ok=True)
     for key, filename, drawer in PANELS:
-        svg = render_panel(key, filename, drawer)
-        print("已保存：{}".format(svg))
-    print("共 6 张矢量图；使用字体：{}".format(FONT_NAME))
+        png = render_panel(key, filename, drawer)
+        print("已保存：{}".format(png))
+    print("共 6 张位图；使用字体：{}".format(FONT_NAME))
 
 
 if __name__ == "__main__":
