@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  21 SEP 2026 16:23
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  21 SEP 2026 16:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1292,7 +1292,7 @@ File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [1
 
-]
+] (./sections/frontmatter.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [2] (./article.toc
@@ -1332,13 +1332,13 @@ File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [6
 
-]
+]) (./sections/sec01_intro.tex
 File: figures/图片1.png Graphic file (type bmp)
 <figures/图片1.png>
 
 
 LaTeX Font Warning: Font shape `TU/SimSun(1)/b/n' undefined
-(Font)              using `TU/SimSun(1)/m/n' instead on input line 141.
+(Font)              using `TU/SimSun(1)/m/n' instead on input line 19.
 
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
@@ -1373,7 +1373,7 @@ File: figures/图片7.png Graphic file (type bmp)
 <figures/图片7.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [12]
+ [12]) (./sections/sec02_design.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [13]
@@ -1396,7 +1396,7 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [18]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [19]
+ [19]) (./sections/sec03_preprocess.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [20]
@@ -1405,7 +1405,7 @@ File: figures/图片9.png Graphic file (type bmp)
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [21]
-Overfull \hbox (13.0172pt too wide) in paragraph at lines 507--507
+Overfull \hbox (13.0172pt too wide) in paragraph at lines 46--46
  []|[]| 
  []
 
@@ -1416,13 +1416,13 @@ Overfull \vbox (4.95593pt too high) has occurred while \output is active []
 
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [23]
+ [23]) (./sections/sec04_quality.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [24]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [25]
+ [25]) (./sections/sec05_descriptive.tex
 File: figures/板块1_性别构成.png Graphic file (type bmp)
 <figures/板块1_性别构成.png>
 File: figures/板块2_城市分布.png Graphic file (type bmp)
@@ -1465,13 +1465,14 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [31]
 File: figures/图片16.png Graphic file (type bmp)
 <figures/图片16.png>
+) (./sections/sec06_efa.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [32]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [33]
-Overfull \hbox (2.69916pt too wide) in paragraph at lines 825--826
+Overfull \hbox (2.69916pt too wide) in paragraph at lines 73--74
 []\TU/SimSun(0)/m/n/12.05 由 表[][]\TU/TimesNewRoman(0)/m/n/12.05 10[][]\TU/SimSun(0)/m/n/12.05 可 知，|  经 过 凯 撒 正 态 化 最 大 方 差 法 旋 转 后 各 因 子 的 方 差 贡 献 率 分 别 为 \TU/TimesNewRoman(0)/m/n/12.05 19.53%\TU/SimSun(0)/m/n/12.05 、|
  []
 
@@ -1490,7 +1491,7 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [36]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [37]
+ [37]) (./sections/sec07_cluster.tex
 File: figures/cluster_radar.png Graphic file (type bmp)
 <figures/cluster_radar.png>
 File: figures/背景图.jpg Graphic file (type bmp)
@@ -1503,7 +1504,7 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [39]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [40]
+ [40]) (./sections/sec08_logistic.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [41]
@@ -1541,13 +1542,13 @@ File: figures/compare_confusion_xgboost.png Graphic file (type bmp)
 <figures/compare_confusion_xgboost.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [50]
+ [50]) (./sections/sec09_sem.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [51]
+ [51]) (./sections/sec10_decision.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [52]
+ [52]) (./sections/sec11_conclusion.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [53]
@@ -1558,13 +1559,13 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [54]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [55]
+ [55]) (./sections/sec12_limitation.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [56]
+ [56]) (./sections/references.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [57]
+ [57]) (./sections/appendix.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [58]
@@ -1607,7 +1608,7 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [67] (d:/Program Files (x86)/Work applications/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1858.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 343.
  (./code/model/q2_efa.py
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
@@ -1641,7 +1642,7 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [77]
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [78])
+ [78]))
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [79] (./article.aux)
@@ -1657,12 +1658,12 @@ Package rerunfilecheck Info: File `article.out' has not changed.
 (rerunfilecheck)             Checksum: FAEEC7B5BA8DC41668C815A09AC3DB9C;8407.
  ) 
 Here is how much of TeX's memory you used:
- 38408 strings out of 468168
- 857795 string characters out of 5418930
- 1896579 words of memory out of 5000000
- 66356 multiletter control sequences out of 15000+600000
+ 38528 strings out of 468168
+ 861333 string characters out of 5418930
+ 1896884 words of memory out of 5000000
+ 66431 multiletter control sequences out of 15000+600000
  649242 words of font info for 184 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,16n,125p,517b,2280s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,16n,125p,524b,2280s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on article.pdf (79 pages).
