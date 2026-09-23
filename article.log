@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  23 SEP 2026 13:01
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  23 SEP 2026 13:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1477,11 +1477,11 @@ File: figures/背景图.jpg Graphic file (type bmp)
  [34]
 File: figures/图片17.png Graphic file (type bmp)
 <figures/图片17.png>
+File: figures/图片18.png Graphic file (type bmp)
+<figures/图片18.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [35]
-File: figures/图片18.png Graphic file (type bmp)
-<figures/图片18.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [36]) (./sections/sec07_cluster.tex
@@ -1654,10 +1654,10 @@ Package rerunfilecheck Info: File `article.out' has not changed.
 (rerunfilecheck)             Checksum: 2004E7B35D41F5137F3D14F58A64AED8;8383.
  ) 
 Here is how much of TeX's memory you used:
- 38534 strings out of 468168
- 861440 string characters out of 5418930
+ 38539 strings out of 468168
+ 861554 string characters out of 5418930
  1898089 words of memory out of 5000000
- 66437 multiletter control sequences out of 15000+600000
+ 66442 multiletter control sequences out of 15000+600000
  649242 words of font info for 184 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,16n,125p,524b,2280s stack positions out of 10000i,1000n,20000p,200000b,200000s

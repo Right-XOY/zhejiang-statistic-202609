@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1790139699.32254 "out/article.xdv" "out/article.pdf" "out/article" 1790139711.10512 0
-  "out/article.xdv" 1790139697 1441780 37ee717d6e56fdf5c2316d2bea7fdf50 "xelatex"
+["xdvipdfmx"] 1790141707.43697 "out/article.xdv" "out/article.pdf" "out/article" 1790141719.21439 0
+  "out/article.xdv" 1790141706 1442500 f0821356e04da5acaed2f2ec165d2887 "xelatex"
   (generated)
   "out/article.pdf"
   (rewritten before read)
-["xelatex"] 1790139691.07398 "article.tex" "out/article.xdv" "article" 1790139711.04232 0
+["xelatex"] 1790141699.74346 "article.tex" "out/article.xdv" "article" 1790141719.15051 0
   "annotate-equations.sty" 1786061590 7936 b135f73227e4033f464c10b739921bcc ""
   "article.tex" 1789979401 3691 44b3dd757144dedc369a10517dcbff57 ""
   "c:/Windows/Fonts/msyh.ttc" 1773326043 19704352 1e10e74402e59d54499af795caf0b135 ""
@@ -290,11 +290,11 @@
   "figures/图片7.png" 1789566799 2204583 437c099dbde0fd248502e517967035b5 ""
   "figures/图片8.png" 1789566804 11840453 75e975c56d2a0f6258a5e679e02d742d ""
   "figures/图片9.png" 1789566811 7649140 08d136ad52ed6d2b26b3a38600515da5 ""
-  "out/article.aux" 1790139697 26892 e753e6c088f83abb12829849a403bed8 "xelatex"
-  "out/article.lof" 1790139697 3071 67393d5c26dee0d2a29bf25c01319f53 "xelatex"
-  "out/article.lot" 1790139697 2578 7d56fca8de4cf2f624c9fd4914518da7 "xelatex"
-  "out/article.out" 1790139697 8383 2004e7b35d41f5137f3d14f58a64aed8 "xelatex"
-  "out/article.toc" 1790139697 9088 e8c9c7e19802cb86be61c237339cc835 "xelatex"
+  "out/article.aux" 1790141706 26892 e854d9722fb12cab526acc4b273df117 "xelatex"
+  "out/article.lof" 1790141706 3071 67393d5c26dee0d2a29bf25c01319f53 "xelatex"
+  "out/article.lot" 1790141706 2578 f04a1b407fd6c080491bf65eafc4f1e8 "xelatex"
+  "out/article.out" 1790141706 8383 2004e7b35d41f5137f3d14f58a64aed8 "xelatex"
+  "out/article.toc" 1790141706 9088 e6dfa4ea5da77742613bdb6f7da5e9ca "xelatex"
   "sections/appendix.tex" 1789979401 20750 ff0f36dfc7446b1cf3a4e9964d6bb27f ""
   "sections/frontmatter.tex" 1789979401 3048 c50133aaeb91d061be27662613aaefcd ""
   "sections/references.tex" 1789979401 1310 61ff72468ffcfe7dab2ea100ac1f0025 ""
@@ -303,7 +303,7 @@
   "sections/sec03_preprocess.tex" 1789979401 5581 d968c7302752e88b0dd6eafcd42ba54f ""
   "sections/sec04_quality.tex" 1790139628 4797 e89fde0fa34a30e7351812f01945880b ""
   "sections/sec05_descriptive.tex" 1789979401 9230 eaf4c5fb28731aac6e827170e580af87 ""
-  "sections/sec06_efa.tex" 1790139676 9056 b7ffae3151a802c03b0bf1ca4ab6d2a3 ""
+  "sections/sec06_efa.tex" 1790141685 9543 c7a69325e8c6d0fdcbf378e11940c1ed ""
   "sections/sec07_cluster.tex" 1789979401 3368 5e375c9ac833210f6f532fa9b3072336 ""
   "sections/sec08_logistic.tex" 1789979401 24183 b90b15fe6db08f4653dc2a2b8a03fb55 ""
   "sections/sec09_sem.tex" 1789979401 2775 91e22e195b8308259830227517cab078 ""

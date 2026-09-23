@@ -54,7 +54,7 @@
 \contentsline {subsubsection}{\numberline {6.2.1}公因子方差}{34}{subsubsection.6.2.1}%
 \contentsline {subsubsection}{\numberline {6.2.2}公因子提取与命名}{35}{subsubsection.6.2.2}%
 \contentsline {subsection}{\numberline {6.3}公因子得分计算}{37}{subsection.6.3}%
-\contentsline {section}{\numberline {七、}噪声感知人群的聚类分析}{38}{section.7}%
+\contentsline {section}{\numberline {七、}噪声感知人群的聚类分析}{37}{section.7}%
 \contentsline {subsection}{\numberline {7.1}聚类方法与最优类别数确定}{38}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}聚类结果与人群画像}{39}{subsection.7.2}%
 \contentsline {section}{\numberline {八、}基于有序Logistic回归的声环境满意度影响因素分析}{41}{section.8}%
