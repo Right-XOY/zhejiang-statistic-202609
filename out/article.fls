@@ -679,14 +679,11 @@ INPUT ./figures/背景图.jpg
 INPUT ./figures/背景图.jpg
 INPUT ./figures/图片17.png
 INPUT ./figures/图片17.png
+INPUT ./figures/背景图.jpg
+INPUT ./figures/背景图.jpg
+INPUT ./figures/背景图.jpg
 INPUT ./figures/图片18.png
 INPUT ./figures/图片18.png
-INPUT ./figures/背景图.jpg
-INPUT ./figures/背景图.jpg
-INPUT ./figures/背景图.jpg
-INPUT ./figures/背景图.jpg
-INPUT ./figures/背景图.jpg
-INPUT ./figures/背景图.jpg
 INPUT ./figures/背景图.jpg
 INPUT ./figures/背景图.jpg
 INPUT ./figures/背景图.jpg
@@ -695,6 +692,9 @@ INPUT ./sections/sec07_cluster.tex
 INPUT ./sections/sec07_cluster.tex
 INPUT ./sections/sec07_cluster.tex
 INPUT sections/sec07_cluster.tex
+INPUT ./figures/背景图.jpg
+INPUT ./figures/背景图.jpg
+INPUT ./figures/背景图.jpg
 INPUT ./figures/cluster_radar.png
 INPUT ./figures/cluster_radar.png
 INPUT ./figures/背景图.jpg

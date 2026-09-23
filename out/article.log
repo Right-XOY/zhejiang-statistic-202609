@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  21 SEP 2026 16:30
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.18)  23 SEP 2026 13:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2017,28 +2017,23 @@ File: figures/背景图.jpg Graphic file (type bmp)
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
  [33]
-Overfull \hbox (2.69916pt too wide) in paragraph at lines 73--74
-[]\TU/SimSun(0)/m/n/12.05 由 表[][]\TU/TimesNewRoman(0)/m/n/12.05 10[][]\TU/SimSu
-n(0)/m/n/12.05 可 知，|  经 过 凯 撒 正 态 化 最 大 方 差 法 旋 转 后 各 因 子 的 方 差 贡 献 率 分 别 为 \TU
-/TimesNewRoman(0)/m/n/12.05 19.53%\TU/SimSun(0)/m/n/12.05 、|
- []
-
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
-[34]
+ [34]
 File: figures/图片17.png Graphic file (type bmp)
 <figures/图片17.png>
+File: figures/背景图.jpg Graphic file (type bmp)
+<figures/背景图.jpg>
+ [35]
 File: figures/图片18.png Graphic file (type bmp)
 <figures/图片18.png>
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [35]
+ [36])
+(./sections/sec07_cluster.tex
 File: figures/背景图.jpg Graphic file (type bmp)
 <figures/背景图.jpg>
- [36]
-File: figures/背景图.jpg Graphic file (type bmp)
-<figures/背景图.jpg>
- [37]) (./sections/sec07_cluster.tex
+ [37]
 File: figures/cluster_radar.png Graphic file (type bmp)
 <figures/cluster_radar.png>
 File: figures/背景图.jpg Graphic file (type bmp)
@@ -2212,15 +2207,15 @@ L3 programming layer <2022/08/05>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `article.out' has not changed.
-(rerunfilecheck)             Checksum: FAEEC7B5BA8DC41668C815A09AC3DB9C;8407.
+(rerunfilecheck)             Checksum: 2004E7B35D41F5137F3D14F58A64AED8;8383.
  ) 
 Here is how much of TeX's memory you used:
- 38528 strings out of 468168
- 861317 string characters out of 5418930
- 1896884 words of memory out of 5000000
- 66431 multiletter control sequences out of 15000+600000
+ 38534 strings out of 468168
+ 861424 string characters out of 5418930
+ 1898089 words of memory out of 5000000
+ 66437 multiletter control sequences out of 15000+600000
  649242 words of font info for 184 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,16n,125p,500b,2280s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/article.xdv (79 pages, 1444820 bytes).
+Output written on out/article.xdv (79 pages, 1441780 bytes).

@@ -51,11 +51,9 @@
 \contentsline {section}{\numberline {六、}噪声影响维度的探索性因子分析降维}{33}{section.6}%
 \contentsline {subsection}{\numberline {6.1}适用性检验}{33}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}噪声影响的四维因子解构}{33}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}公因子方差解释}{33}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.1}公因子方差}{34}{subsubsection.6.2.1}%
 \contentsline {subsubsection}{\numberline {6.2.2}公因子提取与命名}{35}{subsubsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.3}公因子得分与权重计算}{37}{subsection.6.3}%
-\contentsline {subsubsection}{\numberline {6.3.1}公因子得分计算}{37}{subsubsection.6.3.1}%
-\contentsline {subsubsection}{\numberline {6.3.2}权重确定与综合评价模型构建}{37}{subsubsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3}公因子得分计算}{37}{subsection.6.3}%
 \contentsline {section}{\numberline {七、}噪声感知人群的聚类分析}{38}{section.7}%
 \contentsline {subsection}{\numberline {7.1}聚类方法与最优类别数确定}{38}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}聚类结果与人群画像}{39}{subsection.7.2}%
